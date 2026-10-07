@@ -1,3 +1,4 @@
+
 # Docker Web Server
 
 CodeAlpha DevOps Internship — Task 4  
@@ -36,3 +37,4 @@ The status should show `healthy` after about 15 seconds.
 docker stop codealpha-project
 docker start codealpha-project
 ```
+
